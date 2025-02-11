@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JuegoDeCartas</string>
+    <string name="nombre">Introduce tu nombre</string>
+    <string name="jugador">Jugador</string>
+    <string name="cartaActual">Carta actual</string>
+    <string name="botonIniciar">Empezar</string>
+    <string name="titulo">Abajo Arriba</string>
+
+</resources>
